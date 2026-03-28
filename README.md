@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Math
@@ -30,4 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
