@@ -10,14 +10,10 @@ class Solution {
 
             while(sum>=target)
             {
-                min=Math.min(min,i-left);
+                min=Math.min(min,i-left+1);
                 sum-=nums[left++];
             }
         }
-        return min==Integer.MAX_VALUE?0:min+1;
-
-
-
-
+        return min==Integer.MAX_VALUE?0:min;
     }
 }
