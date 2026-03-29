@@ -46,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0202-happy-number) |
+## String
+|  |
+| ------- |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 <!---LeetCode Topics End-->
