@@ -3,20 +3,11 @@ class Solution {
         char[] chars = s.toCharArray();
         int len= chars.length;
         List<String> li = new ArrayList<>();
-        StringBuilder sb = new StringBuilder();
-        for(int i=0; i<len;i++)
+        for(int i=0; i<len-2;i++)
         {
-            if(sb.length()<3)
-            {
-                sb.append(chars[i]);
-            }
-            else
-            {
-                sb.deleteCharAt(0);
-                sb.append(chars[i]);
-            }
-            if(sb.length()==3 && check(sb.toString())){
-                li.add(sb.toString());
+            String sb = s.substring(i,i+3);
+            if(check(sb)){
+                li.add(sb);
             }
         }
         return li.size();
