@@ -5,7 +5,6 @@ class Solution {
 
         List<Set<Character>> list = new ArrayList<>();
 
-        // Precompute sets
         for (String word : words) {
             Set<Character> set = new HashSet<>();
             for (char c : word.toCharArray()) {
@@ -14,7 +13,6 @@ class Solution {
             list.add(set);
         }
 
-        // Compare
         for (int i = 0; i < len; i++) {
             for (int j = i + 1; j < len; j++) {
                 if (list.get(i).equals(list.get(j))) {
