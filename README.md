@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0896-monotonic-array](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [0999-available-captures-for-rook](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0999-available-captures-for-rook) |
+| [2506-count-pairs-of-similar-strings](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Math
@@ -56,14 +57,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2506-count-pairs-of-similar-strings](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
 ## String
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2506-count-pairs-of-similar-strings](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3110-score-of-a-string](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 ## Counting
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2506-count-pairs-of-similar-strings](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2506-count-pairs-of-similar-strings](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
 <!---LeetCode Topics End-->
