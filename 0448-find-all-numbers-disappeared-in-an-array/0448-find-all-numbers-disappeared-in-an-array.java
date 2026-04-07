@@ -1,5 +1,6 @@
 class Solution {
-    public List<Integer> findDisappearedNumbers(int[] nums) {
+
+    public static List<Integer> findDisappearedNumbers(int[] nums) {
      Set<Integer> s = new HashSet<>();
      List<Integer> res = new ArrayList<>();
      for(int i : nums)
