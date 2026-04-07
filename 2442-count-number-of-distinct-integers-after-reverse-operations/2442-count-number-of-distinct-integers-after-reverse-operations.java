@@ -5,8 +5,6 @@ class Solution {
         for(int j : nums)
         {
             res.add(j);
-            // int temp = Integer.parseInt(new StringBuilder(String.valueOf(j)).reverse().toString());
-            // res.add(temp);
             int rev=0;
             while(j!=0)
             {
