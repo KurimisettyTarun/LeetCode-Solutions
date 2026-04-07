@@ -8,7 +8,6 @@ class Solution {
             if(n%2==0)
             map.put(n,map.getOrDefault(n,0)+1);
         }
-        System.out.println(map);
         for(int key : map.keySet())
         {
             int freq = map.get(key);
