@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0263-ugly-number) |
+| [0412-fizz-buzz](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0999-available-captures-for-rook](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0999-available-captures-for-rook) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Two Pointers
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2506-count-pairs-of-similar-strings](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
