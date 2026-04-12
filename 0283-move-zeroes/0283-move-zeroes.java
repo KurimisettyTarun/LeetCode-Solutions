@@ -11,9 +11,8 @@ class Solution {
             }
             fast++;
         }
-        while(slow<fast)
-        {
-            nums[slow++]=0;
+        for (int i=slow; i<nums.length; i++) {
+            nums[i] = 0;
         }
     }
 }
