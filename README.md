@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
