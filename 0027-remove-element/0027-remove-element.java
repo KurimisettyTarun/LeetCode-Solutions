@@ -1,16 +1,15 @@
 class Solution {
     public int removeElement(int[] nums, int val) {
-        int k=0;
-        int max = Integer.MAX_VALUE;
-        for(int i=0;i<nums.length;i++)
-        {
-            if(nums[i]==val)
-            {
-                k++;
-                nums[i]=max;
-            }
+        List<Integer> li = new ArrayList<>();
+        for (int num : nums){
+            if(num!=val)
+            li.add(num);
         }
-        Arrays.sort(nums);
-        return nums.length-k;
+
+        for(int i=0;i<li.size();i++)
+        {
+            nums[i]=li.get(i);
+        }
+        return li.size();
     }
 }
