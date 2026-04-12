@@ -6,8 +6,7 @@ class Solution {
         {
             if(nums[fast]!=0)
             {
-                nums[slow]=nums[fast];
-                slow++;
+                nums[slow++]=nums[fast];
             }
             fast++;
         }
