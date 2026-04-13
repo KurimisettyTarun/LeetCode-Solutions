@@ -5,7 +5,9 @@ class Solution {
      {
         if(nums[i]==target)
         {
-            min=Math.min(min, Math.abs(st-i));
+            int k = Math.abs(st-i);
+            if(min>k)
+            min=k;
         }
      } 
        return min;
