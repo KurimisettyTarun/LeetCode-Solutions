@@ -6,8 +6,10 @@ class Solution {
         if(nums[i]==target)
         {
             int k = Math.abs(st-i);
-            if(min>k)
-            min=k;
+            // if(min>k)
+            // min=k;
+            
+            min= k<min?k:min;
         }
      } 
        return min;
