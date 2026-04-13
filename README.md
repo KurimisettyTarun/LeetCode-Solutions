@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [1323-maximum-69-number](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sorting
 |  |
