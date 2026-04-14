@@ -6,9 +6,7 @@ class Solution {
         {
             int temp=0;
             for(int j=0;j<len;j++)
-            {
                  temp += matrix[i][j];
-            }
             res[i]=temp;
         }
         return res;
