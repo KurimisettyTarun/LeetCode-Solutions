@@ -1,12 +1,13 @@
 class Solution {
     public int[] findDegrees(int[][] matrix) {
-        int[] res = new int[matrix.length];
-        for(int i=0;i<matrix.length;i++)
+        int len = matrix.length;
+        int[] res = new int[len];
+        for(int i=0;i<len;i++)
         {
             int temp=0;
-            for(int j=0;j<matrix.length;j++)
+            for(int j=0;j<len;j++)
             {
-                 temp+= matrix[i][j];
+                 temp += matrix[i][j];
             }
             res[i]=temp;
         }
