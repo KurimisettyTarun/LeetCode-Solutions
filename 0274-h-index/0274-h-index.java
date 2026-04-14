@@ -1,5 +1,6 @@
 class Solution {
     public int hIndex(int[] citations) {
+        Arrays.sort(citations);
         int len =citations.length;
         int res =0;
         for(int i=1;i<=len;i++)
