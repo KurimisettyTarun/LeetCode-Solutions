@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0274-h-index](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0896-monotonic-array](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0896-monotonic-array) |
@@ -123,9 +124,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0274-h-index) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0050-powx-n) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
