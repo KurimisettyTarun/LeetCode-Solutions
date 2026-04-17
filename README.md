@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0520-detect-capital) |
+| [0551-student-attendance-record-i](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0551-student-attendance-record-i) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2506-count-pairs-of-similar-strings](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
