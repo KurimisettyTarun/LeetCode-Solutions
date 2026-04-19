@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2404-most-frequent-even-element](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2506-count-pairs-of-similar-strings](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
@@ -63,12 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0942-di-string-match](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [1768-merge-strings-alternately](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2562-find-the-array-concatenation-value](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2562-find-the-array-concatenation-value) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Sliding Window
 |  |
 | ------- |
