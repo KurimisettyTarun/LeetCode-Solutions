@@ -6,7 +6,7 @@ class Solution {
         for(int i=0;i<len;i++){
         int st = i;
         int end =len-1;
-        while(st<=end && end>=0)
+        while(st<=end && end>=i)
         {
             if(colors[st]!=colors[end])
             {
