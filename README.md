@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0999-available-captures-for-rook) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
