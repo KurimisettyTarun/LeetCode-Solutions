@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0461-hamming-distance) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2506-count-pairs-of-similar-strings](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
+| [3827-count-monobit-integers](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3827-count-monobit-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -164,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Enumeration
+|  |
+| ------- |
+| [3827-count-monobit-integers](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3827-count-monobit-integers) |
 <!---LeetCode Topics End-->
