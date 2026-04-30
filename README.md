@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Matrix
 |  |
