@@ -1,6 +1,5 @@
 class Solution {
     public List<List<Integer>> findDifference(int[] nums1, int[] nums2) {
-        List<List<Integer>> res = new ArrayList<>();
         Set<Integer> s1 = new HashSet<>();
         Set<Integer> s2 = new HashSet<>();
 
@@ -10,13 +9,11 @@ class Solution {
         for(int i: nums2)
         s2.add(i);
 
-        res.add(check(s1,s2));
-        res.add(check(s2,s1));
+        return Arrays.asList(diff(s1, s2), diff(s2, s1));
 
-        return res;
     }
 
-    public List<Integer> check (Set<Integer> n, Set<Integer> s)
+    public List<Integer> diff (Set<Integer> n, Set<Integer> s)
     {
         List<Integer> re= new ArrayList<>();
         for(int i : n)
