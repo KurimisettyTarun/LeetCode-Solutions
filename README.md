@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0788-rotated-digits](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [1323-maximum-69-number](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3827-count-monobit-integers](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3827-count-monobit-integers) |
 | [3833-count-dominant-indices](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3833-count-dominant-indices) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0788-rotated-digits](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 <!---LeetCode Topics End-->
