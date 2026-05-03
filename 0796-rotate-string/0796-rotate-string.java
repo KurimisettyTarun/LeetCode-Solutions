@@ -1,6 +1,7 @@
 class Solution {
     public boolean rotateString(String s, String goal) {
         if(s.equals(goal))return true;
+        if(s.length() != goal.length()) return false;
         for(int i = s.length()-1; i>=0;i--)
         {
             String x = s.substring(i,s.length());
