@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0551-student-attendance-record-i) |
+| [0796-rotate-string](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0942-di-string-match](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [1108-defanging-an-ip-address](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -181,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0788-rotated-digits](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0788-rotated-digits) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
