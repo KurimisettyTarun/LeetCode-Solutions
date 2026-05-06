@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -196,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
