@@ -21,8 +21,6 @@ class Solution {
             else
             min[i]=nums[i];
        }
-       System.out.println(Arrays.toString(max));
-       System.out.println(Arrays.toString(min));
 
       for (int i = 0; i < nums.length; i++)
        {
