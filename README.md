@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3024-type-of-triangle](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0274-h-index) |
 | [1331-rank-transform-of-an-array](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2974-minimum-number-game](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Recursion
 |  |
