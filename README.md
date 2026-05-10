@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0788-rotated-digits](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0788-rotated-digits) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1323-maximum-69-number](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0551-student-attendance-record-i) |
 | [0796-rotate-string](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0942-di-string-match](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0942-di-string-match) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1768-merge-strings-alternately](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
