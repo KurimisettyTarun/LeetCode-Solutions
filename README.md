@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0788-rotated-digits](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
