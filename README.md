@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2506-count-pairs-of-similar-strings](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [1768-merge-strings-alternately](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2562-find-the-array-concatenation-value) |
 ## Binary Search
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 ## Sliding Window
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2506-count-pairs-of-similar-strings](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
+| [2540-minimum-common-value](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
