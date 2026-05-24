@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0274-h-index) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0520-detect-capital) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0942-di-string-match](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [1323-maximum-69-number](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0274-h-index) |
 | [1331-rank-transform-of-an-array](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2974-minimum-number-game](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
