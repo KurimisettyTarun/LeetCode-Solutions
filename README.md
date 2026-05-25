@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0451-sort-characters-by-frequency](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0551-student-attendance-record-i) |
 | [0796-rotate-string](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0796-rotate-string) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2404-most-frequent-even-element](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0274-h-index) |
+| [0451-sort-characters-by-frequency](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2974-minimum-number-game](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2974-minimum-number-game](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 ## Linked List
 |  |
@@ -230,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0183-customers-who-never-order) |
 | [0596-classes-with-at-least-5-students](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
