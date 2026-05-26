@@ -8,9 +8,11 @@ class Solution {
         int cnt = 0;
         for(char i : word.toCharArray())
         {
-            if(set.contains(Character.toUpperCase(i)) && set.contains(Character.toLowerCase(i))){
-                set.remove(Character.toUpperCase(i));
-                set.remove(Character.toLowerCase(i));
+            char up =Character.toUpperCase(i);
+            char low = Character.toLowerCase(i);
+            if(set.contains(up) && set.contains(low)){
+                set.remove(up);
+                set.remove(low);
                 cnt++;
             }
         }
