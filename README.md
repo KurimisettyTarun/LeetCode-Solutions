@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3833-count-dominant-indices](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3833-count-dominant-indices) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3024-type-of-triangle](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Matrix
