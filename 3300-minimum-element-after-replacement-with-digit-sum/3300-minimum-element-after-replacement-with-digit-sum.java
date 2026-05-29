@@ -1,11 +1,13 @@
 class Solution {
     public int minElement(int[] nums) {
+        int res= Integer.MAX_VALUE;
         for(int i=0; i<nums.length; i++)
         {
-            nums[i] = sum(nums[i]);
+            int temp = sum(nums[i]);
+            res = Math.min(res,temp);
         }
 
-        return Arrays.stream(nums).min().orElse(0);
+        return res;
     }
 
     public int sum(int n){
