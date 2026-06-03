@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3931-check-adjacent-digit-differences](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3931-check-adjacent-digit-differences) |
 ## Counting
 |  |
 | ------- |
