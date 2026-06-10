@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3689-maximum-total-subarray-value-i](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3833-count-dominant-indices](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3833-count-dominant-indices) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3689-maximum-total-subarray-value-i](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sorting
 |  |
 | ------- |
