@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2047-number-of-valid-words-in-a-sentence](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2506-count-pairs-of-similar-strings](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
