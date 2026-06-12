@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
