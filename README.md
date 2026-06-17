@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0577-employee-bonus) |
 | [0596-classes-with-at-least-5-students](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1757-recyclable-and-low-fat-products](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Bucket Sort
