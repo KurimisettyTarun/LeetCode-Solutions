@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2506-count-pairs-of-similar-strings](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2540-minimum-common-value](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2047-number-of-valid-words-in-a-sentence) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2506-count-pairs-of-similar-strings](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2404-most-frequent-even-element](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2506-count-pairs-of-similar-strings](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2833-furthest-point-from-origin](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
