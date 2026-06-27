@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0128-longest-consecutive-sequence](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0788-rotated-digits](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 ## String Matching
 |  |
