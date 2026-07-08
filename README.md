@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3407-substring-matching-pattern](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3407-substring-matching-pattern) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3612-process-string-with-special-operations-i](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [3407-substring-matching-pattern](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3407-substring-matching-pattern) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
