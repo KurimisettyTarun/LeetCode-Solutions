@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/1291-sequential-digits) |
 | [3827-count-monobit-integers](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3827-count-monobit-integers) |
 | [3833-count-dominant-indices](https://github.com/KurimisettyTarun/LeetCode-Solutions/tree/master/3833-count-dominant-indices) |
 ## Dynamic Programming
